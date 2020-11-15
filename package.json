@@ -1,0 +1,19 @@
+{
+  "name": "app-tareas",
+  "version": "1.0.0",
+  "description": "Lista Api restet (json) de lista de tareas",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/index.js"
+  },
+  "keywords": [
+    "app",
+    "node",
+    "etc"
+  ],
+  "author": "jhonnyc",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
